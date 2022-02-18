@@ -15,7 +15,7 @@ nav {
     text-align: center;
 }
     
-h1{
+h1 {
 font-family: 'Pirata One', cursive;
 font-size: 70px;
 margin: 0 auto;
@@ -45,7 +45,7 @@ color: #BCB5AD;
 
 } 
 
-h2, h2 a{
+h2, h2 a {
 font-family: 'Pirata One', cursive;
 font-size: 40px;
 margin: 40px;
@@ -55,7 +55,7 @@ color: #BCB5AD;
 h3 {
 font-family: 'Pirata One', cursive;
 font-size: 40px;
-margin: 0px 0px ;
+margin: 0px 0px;
 color: #BCB5AD;
     }
 
@@ -102,7 +102,7 @@ section {
 }
 
 
-article h3{
+article h3 {
     position:relative;
     right:420px;
     top: 50px;
